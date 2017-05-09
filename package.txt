@@ -1,1 +1,1 @@
-package name of app
+com.nordvpn.android
