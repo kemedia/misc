@@ -1,1 +1,2 @@
 com.nordvpn.android
+org.speedspot.speedspotspeedtest
