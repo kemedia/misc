@@ -1,2 +1,3 @@
 com.nordvpn.android
 org.speedspot.speedspotspeedtest
+org.xbmc.kodi
