@@ -3,3 +3,4 @@ org.speedspot.speedspotspeedtest
 org.xbmc.kodi
 com.mxtech.videoplayer.ad
 org.keupdater.avs
+com.mvas.stbemu.pro
