@@ -3,3 +3,4 @@ Speed Check
 Ghostware Media Center
 MX Player
 KE Updater
+STB Emulator
