@@ -1,6 +1,6 @@
 NordVPN
 Speed Check
-Ghostware Media Center
-MX Player
+Jango Radio
+MX Player 1.93
 KE Updater
 STB Emulator
