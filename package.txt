@@ -4,3 +4,4 @@ com.jangomobile.android
 com.mxtech.videoplayer.ad
 org.keupdater.avs
 com.mvas.stbemu.pro
+org.videolan.vlc
