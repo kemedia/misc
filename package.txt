@@ -6,3 +6,4 @@ org.keupdater.avs
 com.mvas.stbemu.pro
 org.videolan.vlc
 com.force.stop
+cm.aptoidetv.pt
