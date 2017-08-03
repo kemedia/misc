@@ -6,3 +6,4 @@ KE Updater
 STB Emulator
 VLC Media Player 2.0.6
 Force-Stop It! 1.3
+AptoideTV
