@@ -5,3 +5,4 @@ com.mxtech.videoplayer.ad
 org.keupdater.avs
 com.mvas.stbemu.pro
 org.videolan.vlc
+com.force.stop
