@@ -1,6 +1,6 @@
 com.nordvpn.android
 org.speedspot.speedspotspeedtest
-org.xbmc.kodi
+com.jangomobile.android
 com.mxtech.videoplayer.ad
 org.keupdater.avs
 com.mvas.stbemu.pro
