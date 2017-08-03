@@ -5,3 +5,4 @@ MX Player 1.93
 KE Updater
 STB Emulator
 VLC Media Player 2.0.6
+Force-Stop It! 1.3
