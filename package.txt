@@ -7,3 +7,4 @@ com.mvas.stbemu.pro
 org.videolan.vlc
 com.force.stop
 cm.aptoidetv.pt
+com.niklabs.pp
