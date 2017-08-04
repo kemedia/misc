@@ -8,3 +8,4 @@ org.videolan.vlc
 com.force.stop
 cm.aptoidetv.pt
 com.niklabs.pp
+com.google.android.youtube.tv 
