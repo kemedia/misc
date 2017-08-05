@@ -9,3 +9,5 @@ com.force.stop
 cm.aptoidetv.pt
 com.niklabs.pp
 com.google.android.youtube.tv 
+com.teamviewer.quicksupport.market
+com.teamviewer.quicksupport.addon.aosp
