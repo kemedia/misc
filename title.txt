@@ -11,3 +11,4 @@ Perfect Player 1.4.2
 Youtube AndroidTV
 QuickSupport 
 QuickSupport Addon
+AdAway 3.2
