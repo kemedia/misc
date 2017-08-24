@@ -12,4 +12,4 @@ com.google.android.youtube.tv
 com.teamviewer.quicksupport.market
 com.teamviewer.quicksupport.addon.aosp
 org.adaway
-com.electricsheep.asi-1.26.2-APK4Fun.com.apk 
+com.electricsheep.asi 
