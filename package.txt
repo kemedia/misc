@@ -13,3 +13,4 @@ com.teamviewer.quicksupport.market
 com.teamviewer.quicksupport.addon.aosp
 org.adaway
 com.electricsheep.asi 
+com.ramziedev.cpuz
