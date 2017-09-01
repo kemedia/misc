@@ -14,3 +14,4 @@ com.teamviewer.quicksupport.addon.aosp
 org.adaway
 com.electricsheep.asi 
 com.ramziedev.cpuz
+com.multimedia.mvcastplayer
