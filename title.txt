@@ -14,3 +14,4 @@ QuickSupport Addon
 AdAway 3.2
 System Info For Android
 CPU-Z
+Mv Cast Player
