@@ -1,7 +1,7 @@
 NordVPN
 Speed Check
 Jango Radio
-MX Player 1.93
+MX Player 1.9.6
 KE Updater
 STB Emulator
 VLC Media Player 2.0.6
