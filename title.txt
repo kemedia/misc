@@ -18,3 +18,4 @@ Mv Cast Player
 IPTV Core
 CetusPlay For TV 2.1.2
 Reboot Manager
+Pushbullet
