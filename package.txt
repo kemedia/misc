@@ -18,3 +18,4 @@ com.multimedia.mvcastplayer
 ru.iptvremote.android.iptv.core
 com.cetusplay.remoteservice
 com.jc.rebootmanager
+com.pushbullet.android
