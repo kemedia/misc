@@ -16,3 +16,4 @@ com.electricsheep.asi
 com.ramziedev.cpuz
 com.multimedia.mvcastplayer
 ru.iptvremote.android.iptv.core
+com.cetusplay.remoteservice
