@@ -16,3 +16,4 @@ System Info For Android
 CPU-Z
 Mv Cast Player
 IPTV Core
+CetusPlay For TV 2.1.2
