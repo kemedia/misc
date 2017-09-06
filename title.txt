@@ -19,3 +19,6 @@ IPTV Core
 CetusPlay For TV 2.1.2
 Reboot Manager
 Pushbullet
+Android tips and tricks
+Torrent TV
+Android Forensic Report
