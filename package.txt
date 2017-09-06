@@ -19,3 +19,6 @@ ru.iptvremote.android.iptv.core
 com.cetusplay.remoteservice
 com.jc.rebootmanager
 com.pushbullet.android
+com.sendgroupsms.aPhoneTips
+ru.vidsoftware.acestreamcontroller.free
+com.sendgroupsms.MobileInvestigation
