@@ -22,3 +22,4 @@ com.pushbullet.android
 com.sendgroupsms.aPhoneTips
 ru.vidsoftware.acestreamcontroller.free
 com.sendgroupsms.MobileInvestigation
+com.samknows.fcc
