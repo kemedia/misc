@@ -6,7 +6,7 @@ KE Updater
 STB Emulator
 VLC Media Player 2.0.6
 Force-Stop It! 1.3
-AptoideTV
+AptoideTV 3.2.5
 Perfect Player 1.4.2
 Youtube AndroidTV
 QuickSupport 
