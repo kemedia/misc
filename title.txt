@@ -1,5 +1,5 @@
 NordVPN
-Speed Check
+Ookla Speed Test
 Jango Radio
 MX Player 1.9.7
 KE Updater
