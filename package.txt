@@ -22,3 +22,4 @@ com.pushbullet.android
 com.sendgroupsms.aPhoneTips
 ru.vidsoftware.acestreamcontroller.free
 com.samknows.fcc
+com.mxtech.ffmpeg.v7_neon
