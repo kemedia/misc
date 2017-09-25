@@ -22,3 +22,4 @@ Pushbullet
 Android tips and tricks
 Torrent TV
 FCC Speed Test 1.122
+MX Player Codec
