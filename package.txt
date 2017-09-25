@@ -1,5 +1,5 @@
 com.nordvpn.android
-org.speedspot.speedspotspeedtest
+org.zwanoo.android.speedtest
 com.jangomobile.android
 com.mxtech.videoplayer.ad
 org.keupdater.avs
