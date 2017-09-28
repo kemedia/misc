@@ -24,3 +24,4 @@ ru.vidsoftware.acestreamcontroller.free
 com.shunra.nce
 com.mxtech.ffmpeg.v7_neon
 com.apktime.apktime
+com.estmob.android.sendanywhere
