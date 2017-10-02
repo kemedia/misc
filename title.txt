@@ -25,3 +25,5 @@ HPE Network Capture
 MX Player Codec
 APK Time 
 Send Anywhere (file transfer)
+Aida 64
+
