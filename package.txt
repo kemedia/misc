@@ -32,5 +32,5 @@ com.kaspersky.security.cloud
 com.kaspersky.kms.free
 com.stoamigo.storage
 com.rootuninstaller.ramboosterpro
-com.mozilla.firefox
+org.mozilla.firefox
 com.sand.airdroid
