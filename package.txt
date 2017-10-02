@@ -31,6 +31,6 @@ com.selairus.international.wifipasswordchange.routerpassword.routersettings
 com.kaspersky.security.cloud
 com.kaspersky.kms.free
 com.stoamigo.storage
-com.rootuninstaller.ramboosterpro
+com.rootuninstaller.ramboosterpro.apk
 org.mozilla.firefox
 com.sand.airdroid
