@@ -34,3 +34,5 @@ com.stoamigo.storage
 com.rootuninstaller.ramboosterpro
 org.mozilla.firefox
 com.sand.airdroid
+com.pushbullet.android.portal
+com.jonathonantoine.TVST
