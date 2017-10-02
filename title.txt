@@ -26,4 +26,11 @@ MX Player Codec
 APK Time 
 Send Anywhere (file transfer)
 Aida 64
-
+Fing Network Tools
+192.168.1.1 Router Admin
+Kaspersky Anti virus Cloud
+Kaspersky Anti Virus Free
+StoAmigo Cloud
+Smart Booster Pro
+Mozilla Firefox Browser
+AirDroid
