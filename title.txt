@@ -1,7 +1,7 @@
 NordVPN
 Ookla Speed Test
 Jango Radio
-MX Player 1.9.7
+MX Player 1.9.8
 KE Updater
 STB Emulator
 VLC Media Player 2.5
