@@ -36,3 +36,5 @@ Mozilla Firefox Browser
 AirDroid
 Portal for (pushbullet)
 TRAKT TV Show Tracker
+Tunlin Radio
+Malwarebytes
