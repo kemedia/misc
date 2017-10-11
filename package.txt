@@ -36,5 +36,5 @@ org.mozilla.firefox
 com.sand.airdroid
 com.pushbullet.android.portal
 com.jonathonantoine.TVST
-org.malwarebytes.antimalware
 radiotime.player
+org.malwarebytes.antimalware
