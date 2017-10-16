@@ -23,7 +23,7 @@ Android tips and tricks
 Torrent TV
 HPE Network Capture
 MX Player Codec
-APK Time 
+APK Time 1.5
 Send Anywhere (file transfer)
 Aida 64
 Fing Network Tools
