@@ -9,7 +9,7 @@ http://dl.apk-cloud.com/root/apk/2015/10/30/com.force.stop_4.apk?id=com.force.st
 http://apkins.aptoide.com/AptoideTV-3.2.5.apk
 https://drive.google.com/uc?export=download&id=0B4H9rCZ8VqgAVGlraDc4WHY3cGs
 https://www.dropbox.com/s/6qck2bgn9dcop42/com.google.android.youtube.tv_2.01.04-20104320_minAPI21%28armeabi-v7a%29%28nodpi%29_apkmirror.com.apk?dl=1
-https://www.ghostware.ca/repo/QS/QS1.apk
+https://drive.google.com/uc?export=download&id=0B4H9rCZ8VqgATzRiSzh3emJKRzQ
 https://www.ghostware.ca/repo/QS/QS2.apk
 https://f-droid.org/repo/org.adaway_60.apk
 https://www.dropbox.com/s/52ge8xf8t7y7znd/com.electricsheep.asi-1.26.2%40APK4Fun.com%20%281%29.apk?dl=1
