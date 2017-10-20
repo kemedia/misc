@@ -38,3 +38,7 @@ com.pushbullet.android.portal
 com.jonathonantoine.TVST
 radiotime.player
 org.malwarebytes.antimalware
+org.openobservatory.ooniprobe
+lysesoft.andftp
+com.tempmail
+com.discord
