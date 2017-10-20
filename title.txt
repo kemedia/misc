@@ -38,3 +38,7 @@ Portal for (pushbullet)
 TRAKT TV Show Tracker
 Tunlin Radio
 Malwarebytes
+ooniprobe network assessor
+And FTP
+Temp Mail
+Discord
