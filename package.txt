@@ -42,3 +42,4 @@ org.openobservatory.ooniprobe
 lysesoft.andftp
 com.tempmail
 com.discord
+com.xtream_iptv.player
