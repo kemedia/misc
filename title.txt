@@ -42,3 +42,4 @@ ooniprobe network assessor
 And FTP
 Temp Mail
 Discord
+Xstream IPTV player 0.2.4 
