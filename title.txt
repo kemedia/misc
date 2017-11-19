@@ -28,8 +28,8 @@ Send Anywhere (file transfer)
 Aida 64
 Fing Network Tools
 192.168.1.1 Router Admin
-Kaspersky Anti virus Cloud
-Kaspersky Anti Virus Free
+Avast Anti Virus
+Avast Clean Up
 StoAmigo Cloud
 Smart Booster Pro
 Mozilla Firefox Browser
@@ -43,3 +43,5 @@ And FTP
 Temp Mail
 Ghostware Support Group
 Xstream IPTV player 0.2.4 
+Google Assistant
+IFTTT
