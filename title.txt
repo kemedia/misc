@@ -41,5 +41,5 @@ Malwarebytes
 ooniprobe network assessor
 And FTP
 Temp Mail
-Discord
+Ghostware Support Group
 Xstream IPTV player 0.2.4 
