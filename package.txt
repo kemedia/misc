@@ -28,7 +28,8 @@ com.estmob.android.sendanywhere
 com.finalwire.aide64
 com.overlook.android.fing
 com.selairus.international.wifipasswordchange.routerpassword.routersettings
-com.kaspersky.security.cloud
+com.avast.android.mobilesecurity
+com.avast.android.cleaner
 com.kaspersky.kms.free
 com.stoamigo.storage
 com.rootuninstaller.ramboosterpro
@@ -43,3 +44,5 @@ lysesoft.andftp
 com.tempmail
 com.wGhostwareSupportGroup_5974905
 com.xtream_iptv.player
+com.hybridevelopers.assistant
+com.ifttt.ifttt
