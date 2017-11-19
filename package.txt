@@ -41,5 +41,5 @@ org.malwarebytes.antimalware
 org.openobservatory.ooniprobe
 lysesoft.andftp
 com.tempmail
-com.discord
+com.wGhostwareSupportGroup_5974905
 com.xtream_iptv.player
