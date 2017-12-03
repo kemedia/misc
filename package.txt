@@ -30,7 +30,6 @@ com.overlook.android.fing
 com.selairus.international.wifipasswordchange.routerpassword.routersettings
 com.avast.android.mobilesecurity
 com.avast.android.cleaner
-com.kaspersky.kms.free
 com.stoamigo.storage
 com.rootuninstaller.ramboosterpro
 org.mozilla.firefox
@@ -45,5 +44,6 @@ com.tempmail
 com.wGhostwareSupportGroup_5974905
 com.xtream_iptv.player
 com.hybridevelopers.assistant
+com.ifttt.ifttt
 com.clearchannel.iheartradio.controller
 ca.radioplayer.android
