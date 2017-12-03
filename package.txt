@@ -45,6 +45,5 @@ com.tempmail
 com.wGhostwareSupportGroup_5974905
 com.xtream_iptv.player
 com.hybridevelopers.assistant
-com.ifttt.ifttt
 com.clearchannel.iheartradio.controller
 ca.radioplayer.android
