@@ -45,3 +45,5 @@ Ghostware Support Group
 Xstream IPTV player 0.2.4 
 Google Assistant
 IFTTT
+iheart radio 8.5.0
+Radio Player Canada
