@@ -47,3 +47,4 @@ com.hybridevelopers.assistant
 com.ifttt.ifttt
 com.clearchannel.iheartradio.controller
 ca.radioplayer.android
+com.iint3liig3ncii.droidpowerhouse
