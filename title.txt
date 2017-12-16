@@ -47,4 +47,4 @@ Google Assistant
 IFTTT
 iheart radio 8.5.0
 Radio Player Canada
-Amanda's APK
+
